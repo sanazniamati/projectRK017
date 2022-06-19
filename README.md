@@ -9,4 +9,4 @@ It provides declarative and reactive bindings to the [Konva Framework](https://k
 
 ![Star](./img.png)
 
-**How To create a star with react- Konva ? **
+**How To create a text label with react-Konva ?**

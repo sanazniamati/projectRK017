@@ -1,12 +1,12 @@
 {
-  "name": "projectrk014",
-  "version": "0.1.0",
+  "name": "projectrk017",
+  "version": "0.1.1",
   "private": true,
-  "description": "To create a star with react- Konva",
+  "description": "To create a text label with react-Konva, which can be used for creating text with backgrounds, simple tooltips, or tooltips with pointers,",
   "keywords": [
     "react-konva",
     "react",
-    "Star"
+    "Lable","Text","Tag"
   ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
